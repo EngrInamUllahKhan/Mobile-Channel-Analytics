@@ -1,12 +1,12 @@
-# 📊 Mobile Sales Dashboard - Power BI Project
+# 📊 Mobile Channel Analytics Dashboard - Power BI Project
 
 ## Project Overview
 
-The Mobile Sales Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile sales data across various cities in India. This project provides comprehensive insights into sales performance, customer preferences, and payment trends, empowering businesses to make informed decisions.
+The Mobile Channel Analytics Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile sales data across various cities in AU. This project provides comprehensive insights into sales performance, customer preferences, and payment trends, empowering businesses to make informed decisions.
 
 ## Key Features
 -	✅ **Total Sales Overview**: Displays total sales, quantity sold, transaction count, and average selling price.
--	📍 **City-Wise Sales Mapping**: Visual representation of sales across key Indian cities like Mumbai, Delhi, Hyderabad, Chennai, and more.
+-	📍 **City/ Area -Wise Sales Mapping**: Visual representation of sales across key areas of Sydney.
 -	📈 **Monthly Sales Trends**: Visualizes quantity sold each month to track seasonal and monthly sales patterns.
 -	⭐ **Customer Ratings**: Breakdown of customer feedback categorized into Good, Average, and Poor.
 -	💳 **Payment Method Analysis**: Distribution of transactions across UPI, Credit Card, Debit Card, and Cash.
@@ -31,16 +31,16 @@ This dashboard is designed for sales managers, analysts, and decision-makers to:
 - Optimize product, payment, and marketing strategies based on actionable insights.
 
 ## Dashboard Preview
-> ![Dashboard](previews/dashboard.png)
+> ![Dashboard View .JPG)
 
 ## 📁 Files Included
-- `Mobile_Sales_Dashboard.pbix` – Main Power BI file
-- `previews/` – Folder for dashboard previews
-- `data/` - Folder for data source file
+- `Mobile Channel Analytics_Dashboard.pbix` – Main Power BI file
+- `Mobile Channel Analytics View.JPG '- Main Display of Dashbaord
+- `Mobile Channel Analytics Data File
 - `README.md` – Project documentation
-- `LICENSE` - License file
 
-## License
+
+
 This project is open-source and available under the [MIT License](./LICENSE).
 
 ## 📬 Contact
