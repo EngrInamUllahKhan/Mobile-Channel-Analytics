@@ -44,6 +44,6 @@ This dashboard is designed for sales managers, analysts, and decision-makers to:
 This project is open-source and available under the [MIT License](./LICENSE).
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://ca.linkedin.com/in/natashabhateja) or reach out via [GitHub](https://github.com/natashabhateja) for collaboration or feedback.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/inam-ullah-193b60125/) for collaboration or feedback.
 
 ---
