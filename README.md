@@ -40,9 +40,6 @@ This dashboard is designed for sales managers, analysts, and decision-makers to:
 - `README.md` – Project documentation
 
 
-
-This project is open-source and available under the [MIT License](./LICENSE).
-
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/inam-ullah-193b60125/) for collaboration or feedback.
 
