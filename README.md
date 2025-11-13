@@ -6,7 +6,7 @@ The Mobile Channel Analytics is an interactive Power BI dashboard designed to an
 
 ## Key Features
 -	✅ **Total Sales Overview**: Displays total sales, quantity sold, transaction count, and average selling price.
--	📍 **City-Wise Sales Mapping**: Visual representation of sales across key area in AU.
+-	📍 **Area-Wise Sales Mapping**: Visual representation of sales across key area in AU.
 -	📈 **Monthly Sales Trends**: Visualizes quantity sold each month to track seasonal and monthly sales patterns.
 -	⭐ **Customer Ratings**: Breakdown of customer feedback categorized into Good, Average, and Poor.
 -	💳 **Payment Method Analysis**: Distribution of transactions across UPI, Credit Card, Debit Card, and Cash.
