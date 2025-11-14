@@ -1,4 +1,5 @@
 # 📊 Mobile Channel Analytics - Power BI Project
+![proj_1](https://github.com/user-attachments/assets/e29c5337-2b2e-4553-bf5c-9008c1a8af93)
 
 ## Project Overview
 
